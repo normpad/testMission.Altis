@@ -1,1 +1,3 @@
 enableDebugConsole = 2;
+respawn = 2;
+disabledAI = 1;
